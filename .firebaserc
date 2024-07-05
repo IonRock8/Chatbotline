@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "tcbot": "test-chatbot-2024"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
